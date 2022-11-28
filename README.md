@@ -21,7 +21,7 @@ Making the code more accessible came in many ways, this included the following. 
 
 In order to view the webpage you must either download the files from the following git repository: https://github.com/NatCro/Challenge-1. Once this is done, you can open the files ip in a programme such as VS code. This will allow you to then see the physical code before being able to launch the webpage. To do this, simply right click on the index.html file and click 'open in default browser'. Once this is done, you should be able to view the following webiste:
 
- ![image of the full webpage](assets\01-html-css-git-challenge-demo.png)
+ ![image of the full webpage](assets\images\01-html-css-git-challenge-demo.png)
 
 
 The other way to access the webpage is to go to the following link in Github pages: https://natcro.github.io/Challenge-1/.
